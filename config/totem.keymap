@@ -126,10 +126,10 @@
             //                                     ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛   ┗━━━━━━━━━━━┻━━━━━━━━━━━┻━━━━━━━━━━━┛
 
             bindings = <
-        &kp ESC    &bt BT_CLR     &kp UP     &trans     &trans           &trans  &trans     &trans       &trans     &trans
-        &trans     &kp LEFT       &kp DOWN   &kp RIGHT  &trans           &trans  &kp LG(K)  &trans       &kp LG(L)  &trans
-&trans  &kp LC(Z)  &kp LG(LS(S))  &kp LC(C)  &kp LC(V)  &trans           &trans  &trans     &trans       &trans     &trans  &trans
-                                  &trans     &trans     &alt_tab_hold    &mo 3   &trans     &kp C_SLEEP
+        &kp ESC    &bt BT_CLR     &kp UP        &trans     &trans           &trans  &trans     &trans       &trans     &trans
+        &trans     &kp LEFT       &kp DOWN      &kp RIGHT  &trans           &trans  &kp LG(K)  &trans       &kp LG(L)  &trans
+&trans  &kp LC(Z)  &kp LG(LS(S))  &kp LC(C)     &kp LC(V)  &trans           &trans  &trans     &trans       &trans     &trans  &trans
+                                  &kp LEFT_GUI  &trans     &alt_tab_hold    &mo 3   &trans     &kp C_SLEEP
             >;
         };
 
