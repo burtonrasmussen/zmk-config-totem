@@ -154,7 +154,7 @@
             bindings = <
           &kp EXCL      &kp AT         &kp HASH      &kp PLUS   &kp LEFT_BRACE          &kp RIGHT_BRACE        &kp KP_NUMBER_7  &kp KP_NUMBER_8  &kp KP_NUMBER_9  &kp DQT
           &kp GRAVE     &kp DOLLAR     &kp ASTERISK  &kp EQUAL  &kp LEFT_BRACKET        &kp RIGHT_BRACKET      &kp KP_NUMBER_4  &kp KP_NUMBER_5  &kp KP_NUMBER_6  &kp APOSTROPHE
-&kp CAPS  &kp LEFT_ALT  &kp RA(CARET)  &kp PERCENT   &kp MINUS  &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp BSLH        &trans
+&kp CAPS  &kp LEFT_ALT  &kp RA(CARET)  &kp PERCENT   &kp MINUS  &kp LEFT_PARENTHESIS    &kp RIGHT_PARENTHESIS  &kp KP_NUMBER_1  &kp KP_NUMBER_2  &kp KP_NUMBER_3  &kp BSLH        &kp QUESTION
                                        &trans        &none      &trans                  &kp RIGHT_SHIFT        &kp KP_NUMBER_0  &kp DEL
             >;
         };
